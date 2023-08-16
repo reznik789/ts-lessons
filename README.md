@@ -1,0 +1,1 @@
+Code inspired by "TypeScript in 50 Lessons" written by Stefan Baumgartner 

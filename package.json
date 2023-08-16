@@ -1,0 +1,14 @@
+{
+  "name": "ts-lessons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:reznik789/ts-lessons.git",
+  "author": "AlexReznichenko <alex.r@itmaster-soft.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "scripts": {
+    "build": "./node_modules/.bin/tsc"
+  }
+}
